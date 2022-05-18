@@ -1,0 +1,15 @@
+{
+  "alien": "👽",
+  "wall": "  ",
+  "space": "  ",
+  "fire": "🔥",
+  "ash": "♨♨",
+  "river": "🌊",
+  "tree": "🌲",
+  "clock": "🕐",
+  "bridge": "🌉",
+  "time": 100,
+  "duration": 1000,
+  "debug_mode": false,
+  "map" : "sanfrancisco"
+}

@@ -1,0 +1,3254 @@
+[
+ {
+    "emoji": "🏁"
+  , "description": "chequered flag"
+  , "category": "Flags"
+  , "aliases": [
+      "checkered_flag"
+    ]
+  , "tags": [
+      "milestone"
+    , "finish"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🚩"
+  , "description": "triangular flag"
+  , "category": "Flags"
+  , "aliases": [
+      "triangular_flag_on_post"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🎌"
+  , "description": "crossed flags"
+  , "category": "Flags"
+  , "aliases": [
+      "crossed_flags"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🏴"
+  , "description": "black flag"
+  , "category": "Flags"
+  , "aliases": [
+      "black_flag"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "7.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🏳️"
+  , "description": "white flag"
+  , "category": "Flags"
+  , "aliases": [
+      "white_flag"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "7.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🏳️‍🌈"
+  , "description": "rainbow flag"
+  , "category": "Flags"
+  , "aliases": [
+      "rainbow_flag"
+    ]
+  , "tags": [
+      "pride"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "10.0"
+  }
+, {
+    "emoji": "🏳️‍⚧️"
+  , "description": "transgender flag"
+  , "category": "Flags"
+  , "aliases": [
+      "transgender_flag"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "13.0"
+  , "ios_version": "14.0"
+  }
+, {
+    "emoji": "🏴‍☠️"
+  , "description": "pirate flag"
+  , "category": "Flags"
+  , "aliases": [
+      "pirate_flag"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇦🇨"
+  , "description": "Ascension Island"
+  , "category": "Flags"
+  , "aliases": [
+      "ascension_island"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇦🇩"
+  , "description": "Andorra"
+  , "category": "Flags"
+  , "aliases": [
+      "andorra"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇪"
+  , "description": "United Arab Emirates"
+  , "category": "Flags"
+  , "aliases": [
+      "united_arab_emirates"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇫"
+  , "description": "Afghanistan"
+  , "category": "Flags"
+  , "aliases": [
+      "afghanistan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇬"
+  , "description": "Antigua & Barbuda"
+  , "category": "Flags"
+  , "aliases": [
+      "antigua_barbuda"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇮"
+  , "description": "Anguilla"
+  , "category": "Flags"
+  , "aliases": [
+      "anguilla"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇱"
+  , "description": "Albania"
+  , "category": "Flags"
+  , "aliases": [
+      "albania"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇲"
+  , "description": "Armenia"
+  , "category": "Flags"
+  , "aliases": [
+      "armenia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇴"
+  , "description": "Angola"
+  , "category": "Flags"
+  , "aliases": [
+      "angola"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇶"
+  , "description": "Antarctica"
+  , "category": "Flags"
+  , "aliases": [
+      "antarctica"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇦🇷"
+  , "description": "Argentina"
+  , "category": "Flags"
+  , "aliases": [
+      "argentina"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇸"
+  , "description": "American Samoa"
+  , "category": "Flags"
+  , "aliases": [
+      "american_samoa"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇹"
+  , "description": "Austria"
+  , "category": "Flags"
+  , "aliases": [
+      "austria"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇺"
+  , "description": "Australia"
+  , "category": "Flags"
+  , "aliases": [
+      "australia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇼"
+  , "description": "Aruba"
+  , "category": "Flags"
+  , "aliases": [
+      "aruba"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇦🇽"
+  , "description": "Åland Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "aland_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇦🇿"
+  , "description": "Azerbaijan"
+  , "category": "Flags"
+  , "aliases": [
+      "azerbaijan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇦"
+  , "description": "Bosnia & Herzegovina"
+  , "category": "Flags"
+  , "aliases": [
+      "bosnia_herzegovina"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇧"
+  , "description": "Barbados"
+  , "category": "Flags"
+  , "aliases": [
+      "barbados"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇩"
+  , "description": "Bangladesh"
+  , "category": "Flags"
+  , "aliases": [
+      "bangladesh"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇪"
+  , "description": "Belgium"
+  , "category": "Flags"
+  , "aliases": [
+      "belgium"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇫"
+  , "description": "Burkina Faso"
+  , "category": "Flags"
+  , "aliases": [
+      "burkina_faso"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇬"
+  , "description": "Bulgaria"
+  , "category": "Flags"
+  , "aliases": [
+      "bulgaria"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇭"
+  , "description": "Bahrain"
+  , "category": "Flags"
+  , "aliases": [
+      "bahrain"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇮"
+  , "description": "Burundi"
+  , "category": "Flags"
+  , "aliases": [
+      "burundi"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇯"
+  , "description": "Benin"
+  , "category": "Flags"
+  , "aliases": [
+      "benin"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇱"
+  , "description": "St. Barthélemy"
+  , "category": "Flags"
+  , "aliases": [
+      "st_barthelemy"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇧🇲"
+  , "description": "Bermuda"
+  , "category": "Flags"
+  , "aliases": [
+      "bermuda"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇳"
+  , "description": "Brunei"
+  , "category": "Flags"
+  , "aliases": [
+      "brunei"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇴"
+  , "description": "Bolivia"
+  , "category": "Flags"
+  , "aliases": [
+      "bolivia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇶"
+  , "description": "Caribbean Netherlands"
+  , "category": "Flags"
+  , "aliases": [
+      "caribbean_netherlands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇧🇷"
+  , "description": "Brazil"
+  , "category": "Flags"
+  , "aliases": [
+      "brazil"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇸"
+  , "description": "Bahamas"
+  , "category": "Flags"
+  , "aliases": [
+      "bahamas"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇹"
+  , "description": "Bhutan"
+  , "category": "Flags"
+  , "aliases": [
+      "bhutan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇻"
+  , "description": "Bouvet Island"
+  , "category": "Flags"
+  , "aliases": [
+      "bouvet_island"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇧🇼"
+  , "description": "Botswana"
+  , "category": "Flags"
+  , "aliases": [
+      "botswana"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇾"
+  , "description": "Belarus"
+  , "category": "Flags"
+  , "aliases": [
+      "belarus"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇧🇿"
+  , "description": "Belize"
+  , "category": "Flags"
+  , "aliases": [
+      "belize"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇦"
+  , "description": "Canada"
+  , "category": "Flags"
+  , "aliases": [
+      "canada"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇨"
+  , "description": "Cocos (Keeling) Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "cocos_islands"
+    ]
+  , "tags": [
+      "keeling"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇨🇩"
+  , "description": "Congo - Kinshasa"
+  , "category": "Flags"
+  , "aliases": [
+      "congo_kinshasa"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇫"
+  , "description": "Central African Republic"
+  , "category": "Flags"
+  , "aliases": [
+      "central_african_republic"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇬"
+  , "description": "Congo - Brazzaville"
+  , "category": "Flags"
+  , "aliases": [
+      "congo_brazzaville"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇭"
+  , "description": "Switzerland"
+  , "category": "Flags"
+  , "aliases": [
+      "switzerland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇮"
+  , "description": "Côte d’Ivoire"
+  , "category": "Flags"
+  , "aliases": [
+      "cote_divoire"
+    ]
+  , "tags": [
+      "ivory"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇰"
+  , "description": "Cook Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "cook_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇱"
+  , "description": "Chile"
+  , "category": "Flags"
+  , "aliases": [
+      "chile"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇲"
+  , "description": "Cameroon"
+  , "category": "Flags"
+  , "aliases": [
+      "cameroon"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇳"
+  , "description": "China"
+  , "category": "Flags"
+  , "aliases": [
+      "cn"
+    ]
+  , "tags": [
+      "china"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇨🇴"
+  , "description": "Colombia"
+  , "category": "Flags"
+  , "aliases": [
+      "colombia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇵"
+  , "description": "Clipperton Island"
+  , "category": "Flags"
+  , "aliases": [
+      "clipperton_island"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇨🇷"
+  , "description": "Costa Rica"
+  , "category": "Flags"
+  , "aliases": [
+      "costa_rica"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇺"
+  , "description": "Cuba"
+  , "category": "Flags"
+  , "aliases": [
+      "cuba"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇻"
+  , "description": "Cape Verde"
+  , "category": "Flags"
+  , "aliases": [
+      "cape_verde"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇼"
+  , "description": "Curaçao"
+  , "category": "Flags"
+  , "aliases": [
+      "curacao"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇽"
+  , "description": "Christmas Island"
+  , "category": "Flags"
+  , "aliases": [
+      "christmas_island"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇨🇾"
+  , "description": "Cyprus"
+  , "category": "Flags"
+  , "aliases": [
+      "cyprus"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇨🇿"
+  , "description": "Czechia"
+  , "category": "Flags"
+  , "aliases": [
+      "czech_republic"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇩🇪"
+  , "description": "Germany"
+  , "category": "Flags"
+  , "aliases": [
+      "de"
+    ]
+  , "tags": [
+      "flag"
+    , "germany"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇩🇬"
+  , "description": "Diego Garcia"
+  , "category": "Flags"
+  , "aliases": [
+      "diego_garcia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇩🇯"
+  , "description": "Djibouti"
+  , "category": "Flags"
+  , "aliases": [
+      "djibouti"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇩🇰"
+  , "description": "Denmark"
+  , "category": "Flags"
+  , "aliases": [
+      "denmark"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇩🇲"
+  , "description": "Dominica"
+  , "category": "Flags"
+  , "aliases": [
+      "dominica"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇩🇴"
+  , "description": "Dominican Republic"
+  , "category": "Flags"
+  , "aliases": [
+      "dominican_republic"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇩🇿"
+  , "description": "Algeria"
+  , "category": "Flags"
+  , "aliases": [
+      "algeria"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇦"
+  , "description": "Ceuta & Melilla"
+  , "category": "Flags"
+  , "aliases": [
+      "ceuta_melilla"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇪🇨"
+  , "description": "Ecuador"
+  , "category": "Flags"
+  , "aliases": [
+      "ecuador"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇪"
+  , "description": "Estonia"
+  , "category": "Flags"
+  , "aliases": [
+      "estonia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇬"
+  , "description": "Egypt"
+  , "category": "Flags"
+  , "aliases": [
+      "egypt"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇭"
+  , "description": "Western Sahara"
+  , "category": "Flags"
+  , "aliases": [
+      "western_sahara"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇪🇷"
+  , "description": "Eritrea"
+  , "category": "Flags"
+  , "aliases": [
+      "eritrea"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇸"
+  , "description": "Spain"
+  , "category": "Flags"
+  , "aliases": [
+      "es"
+    ]
+  , "tags": [
+      "spain"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇪🇹"
+  , "description": "Ethiopia"
+  , "category": "Flags"
+  , "aliases": [
+      "ethiopia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇪🇺"
+  , "description": "European Union"
+  , "category": "Flags"
+  , "aliases": [
+      "eu"
+    , "european_union"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇫🇮"
+  , "description": "Finland"
+  , "category": "Flags"
+  , "aliases": [
+      "finland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇫🇯"
+  , "description": "Fiji"
+  , "category": "Flags"
+  , "aliases": [
+      "fiji"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇫🇰"
+  , "description": "Falkland Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "falkland_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇫🇲"
+  , "description": "Micronesia"
+  , "category": "Flags"
+  , "aliases": [
+      "micronesia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇫🇴"
+  , "description": "Faroe Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "faroe_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇫🇷"
+  , "description": "France"
+  , "category": "Flags"
+  , "aliases": [
+      "fr"
+    ]
+  , "tags": [
+      "france"
+    , "french"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇬🇦"
+  , "description": "Gabon"
+  , "category": "Flags"
+  , "aliases": [
+      "gabon"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇧"
+  , "description": "United Kingdom"
+  , "category": "Flags"
+  , "aliases": [
+      "gb"
+    , "uk"
+    ]
+  , "tags": [
+      "flag"
+    , "british"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇬🇩"
+  , "description": "Grenada"
+  , "category": "Flags"
+  , "aliases": [
+      "grenada"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇪"
+  , "description": "Georgia"
+  , "category": "Flags"
+  , "aliases": [
+      "georgia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇫"
+  , "description": "French Guiana"
+  , "category": "Flags"
+  , "aliases": [
+      "french_guiana"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇬"
+  , "description": "Guernsey"
+  , "category": "Flags"
+  , "aliases": [
+      "guernsey"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇬🇭"
+  , "description": "Ghana"
+  , "category": "Flags"
+  , "aliases": [
+      "ghana"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇮"
+  , "description": "Gibraltar"
+  , "category": "Flags"
+  , "aliases": [
+      "gibraltar"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇱"
+  , "description": "Greenland"
+  , "category": "Flags"
+  , "aliases": [
+      "greenland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇬🇲"
+  , "description": "Gambia"
+  , "category": "Flags"
+  , "aliases": [
+      "gambia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇳"
+  , "description": "Guinea"
+  , "category": "Flags"
+  , "aliases": [
+      "guinea"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇵"
+  , "description": "Guadeloupe"
+  , "category": "Flags"
+  , "aliases": [
+      "guadeloupe"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇬🇶"
+  , "description": "Equatorial Guinea"
+  , "category": "Flags"
+  , "aliases": [
+      "equatorial_guinea"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇷"
+  , "description": "Greece"
+  , "category": "Flags"
+  , "aliases": [
+      "greece"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇸"
+  , "description": "South Georgia & South Sandwich Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "south_georgia_south_sandwich_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇬🇹"
+  , "description": "Guatemala"
+  , "category": "Flags"
+  , "aliases": [
+      "guatemala"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇺"
+  , "description": "Guam"
+  , "category": "Flags"
+  , "aliases": [
+      "guam"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇼"
+  , "description": "Guinea-Bissau"
+  , "category": "Flags"
+  , "aliases": [
+      "guinea_bissau"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇬🇾"
+  , "description": "Guyana"
+  , "category": "Flags"
+  , "aliases": [
+      "guyana"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇭🇰"
+  , "description": "Hong Kong SAR China"
+  , "category": "Flags"
+  , "aliases": [
+      "hong_kong"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇭🇲"
+  , "description": "Heard & McDonald Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "heard_mcdonald_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇭🇳"
+  , "description": "Honduras"
+  , "category": "Flags"
+  , "aliases": [
+      "honduras"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇭🇷"
+  , "description": "Croatia"
+  , "category": "Flags"
+  , "aliases": [
+      "croatia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇭🇹"
+  , "description": "Haiti"
+  , "category": "Flags"
+  , "aliases": [
+      "haiti"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇭🇺"
+  , "description": "Hungary"
+  , "category": "Flags"
+  , "aliases": [
+      "hungary"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇨"
+  , "description": "Canary Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "canary_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇮🇩"
+  , "description": "Indonesia"
+  , "category": "Flags"
+  , "aliases": [
+      "indonesia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇪"
+  , "description": "Ireland"
+  , "category": "Flags"
+  , "aliases": [
+      "ireland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇱"
+  , "description": "Israel"
+  , "category": "Flags"
+  , "aliases": [
+      "israel"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇲"
+  , "description": "Isle of Man"
+  , "category": "Flags"
+  , "aliases": [
+      "isle_of_man"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇮🇳"
+  , "description": "India"
+  , "category": "Flags"
+  , "aliases": [
+      "india"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇴"
+  , "description": "British Indian Ocean Territory"
+  , "category": "Flags"
+  , "aliases": [
+      "british_indian_ocean_territory"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇮🇶"
+  , "description": "Iraq"
+  , "category": "Flags"
+  , "aliases": [
+      "iraq"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇷"
+  , "description": "Iran"
+  , "category": "Flags"
+  , "aliases": [
+      "iran"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇸"
+  , "description": "Iceland"
+  , "category": "Flags"
+  , "aliases": [
+      "iceland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇮🇹"
+  , "description": "Italy"
+  , "category": "Flags"
+  , "aliases": [
+      "it"
+    ]
+  , "tags": [
+      "italy"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇯🇪"
+  , "description": "Jersey"
+  , "category": "Flags"
+  , "aliases": [
+      "jersey"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇯🇲"
+  , "description": "Jamaica"
+  , "category": "Flags"
+  , "aliases": [
+      "jamaica"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇯🇴"
+  , "description": "Jordan"
+  , "category": "Flags"
+  , "aliases": [
+      "jordan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇯🇵"
+  , "description": "Japan"
+  , "category": "Flags"
+  , "aliases": [
+      "jp"
+    ]
+  , "tags": [
+      "japan"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇰🇪"
+  , "description": "Kenya"
+  , "category": "Flags"
+  , "aliases": [
+      "kenya"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇬"
+  , "description": "Kyrgyzstan"
+  , "category": "Flags"
+  , "aliases": [
+      "kyrgyzstan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇭"
+  , "description": "Cambodia"
+  , "category": "Flags"
+  , "aliases": [
+      "cambodia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇮"
+  , "description": "Kiribati"
+  , "category": "Flags"
+  , "aliases": [
+      "kiribati"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇲"
+  , "description": "Comoros"
+  , "category": "Flags"
+  , "aliases": [
+      "comoros"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇳"
+  , "description": "St. Kitts & Nevis"
+  , "category": "Flags"
+  , "aliases": [
+      "st_kitts_nevis"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇵"
+  , "description": "North Korea"
+  , "category": "Flags"
+  , "aliases": [
+      "north_korea"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇷"
+  , "description": "South Korea"
+  , "category": "Flags"
+  , "aliases": [
+      "kr"
+    ]
+  , "tags": [
+      "korea"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇰🇼"
+  , "description": "Kuwait"
+  , "category": "Flags"
+  , "aliases": [
+      "kuwait"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇾"
+  , "description": "Cayman Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "cayman_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇰🇿"
+  , "description": "Kazakhstan"
+  , "category": "Flags"
+  , "aliases": [
+      "kazakhstan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇦"
+  , "description": "Laos"
+  , "category": "Flags"
+  , "aliases": [
+      "laos"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇧"
+  , "description": "Lebanon"
+  , "category": "Flags"
+  , "aliases": [
+      "lebanon"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇨"
+  , "description": "St. Lucia"
+  , "category": "Flags"
+  , "aliases": [
+      "st_lucia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇮"
+  , "description": "Liechtenstein"
+  , "category": "Flags"
+  , "aliases": [
+      "liechtenstein"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇰"
+  , "description": "Sri Lanka"
+  , "category": "Flags"
+  , "aliases": [
+      "sri_lanka"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇷"
+  , "description": "Liberia"
+  , "category": "Flags"
+  , "aliases": [
+      "liberia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇸"
+  , "description": "Lesotho"
+  , "category": "Flags"
+  , "aliases": [
+      "lesotho"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇹"
+  , "description": "Lithuania"
+  , "category": "Flags"
+  , "aliases": [
+      "lithuania"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇺"
+  , "description": "Luxembourg"
+  , "category": "Flags"
+  , "aliases": [
+      "luxembourg"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇻"
+  , "description": "Latvia"
+  , "category": "Flags"
+  , "aliases": [
+      "latvia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇱🇾"
+  , "description": "Libya"
+  , "category": "Flags"
+  , "aliases": [
+      "libya"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇦"
+  , "description": "Morocco"
+  , "category": "Flags"
+  , "aliases": [
+      "morocco"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇨"
+  , "description": "Monaco"
+  , "category": "Flags"
+  , "aliases": [
+      "monaco"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇲🇩"
+  , "description": "Moldova"
+  , "category": "Flags"
+  , "aliases": [
+      "moldova"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇪"
+  , "description": "Montenegro"
+  , "category": "Flags"
+  , "aliases": [
+      "montenegro"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇫"
+  , "description": "St. Martin"
+  , "category": "Flags"
+  , "aliases": [
+      "st_martin"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇲🇬"
+  , "description": "Madagascar"
+  , "category": "Flags"
+  , "aliases": [
+      "madagascar"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇭"
+  , "description": "Marshall Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "marshall_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇲🇰"
+  , "description": "North Macedonia"
+  , "category": "Flags"
+  , "aliases": [
+      "macedonia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇱"
+  , "description": "Mali"
+  , "category": "Flags"
+  , "aliases": [
+      "mali"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇲"
+  , "description": "Myanmar (Burma)"
+  , "category": "Flags"
+  , "aliases": [
+      "myanmar"
+    ]
+  , "tags": [
+      "burma"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇳"
+  , "description": "Mongolia"
+  , "category": "Flags"
+  , "aliases": [
+      "mongolia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇴"
+  , "description": "Macao SAR China"
+  , "category": "Flags"
+  , "aliases": [
+      "macau"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇵"
+  , "description": "Northern Mariana Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "northern_mariana_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇶"
+  , "description": "Martinique"
+  , "category": "Flags"
+  , "aliases": [
+      "martinique"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇲🇷"
+  , "description": "Mauritania"
+  , "category": "Flags"
+  , "aliases": [
+      "mauritania"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇸"
+  , "description": "Montserrat"
+  , "category": "Flags"
+  , "aliases": [
+      "montserrat"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇹"
+  , "description": "Malta"
+  , "category": "Flags"
+  , "aliases": [
+      "malta"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇺"
+  , "description": "Mauritius"
+  , "category": "Flags"
+  , "aliases": [
+      "mauritius"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇲🇻"
+  , "description": "Maldives"
+  , "category": "Flags"
+  , "aliases": [
+      "maldives"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇼"
+  , "description": "Malawi"
+  , "category": "Flags"
+  , "aliases": [
+      "malawi"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇽"
+  , "description": "Mexico"
+  , "category": "Flags"
+  , "aliases": [
+      "mexico"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇾"
+  , "description": "Malaysia"
+  , "category": "Flags"
+  , "aliases": [
+      "malaysia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇲🇿"
+  , "description": "Mozambique"
+  , "category": "Flags"
+  , "aliases": [
+      "mozambique"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇦"
+  , "description": "Namibia"
+  , "category": "Flags"
+  , "aliases": [
+      "namibia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇨"
+  , "description": "New Caledonia"
+  , "category": "Flags"
+  , "aliases": [
+      "new_caledonia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇪"
+  , "description": "Niger"
+  , "category": "Flags"
+  , "aliases": [
+      "niger"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇫"
+  , "description": "Norfolk Island"
+  , "category": "Flags"
+  , "aliases": [
+      "norfolk_island"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇳🇬"
+  , "description": "Nigeria"
+  , "category": "Flags"
+  , "aliases": [
+      "nigeria"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇮"
+  , "description": "Nicaragua"
+  , "category": "Flags"
+  , "aliases": [
+      "nicaragua"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇱"
+  , "description": "Netherlands"
+  , "category": "Flags"
+  , "aliases": [
+      "netherlands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇴"
+  , "description": "Norway"
+  , "category": "Flags"
+  , "aliases": [
+      "norway"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇵"
+  , "description": "Nepal"
+  , "category": "Flags"
+  , "aliases": [
+      "nepal"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇷"
+  , "description": "Nauru"
+  , "category": "Flags"
+  , "aliases": [
+      "nauru"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇳🇺"
+  , "description": "Niue"
+  , "category": "Flags"
+  , "aliases": [
+      "niue"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇳🇿"
+  , "description": "New Zealand"
+  , "category": "Flags"
+  , "aliases": [
+      "new_zealand"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇴🇲"
+  , "description": "Oman"
+  , "category": "Flags"
+  , "aliases": [
+      "oman"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇦"
+  , "description": "Panama"
+  , "category": "Flags"
+  , "aliases": [
+      "panama"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇪"
+  , "description": "Peru"
+  , "category": "Flags"
+  , "aliases": [
+      "peru"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇫"
+  , "description": "French Polynesia"
+  , "category": "Flags"
+  , "aliases": [
+      "french_polynesia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇵🇬"
+  , "description": "Papua New Guinea"
+  , "category": "Flags"
+  , "aliases": [
+      "papua_new_guinea"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇭"
+  , "description": "Philippines"
+  , "category": "Flags"
+  , "aliases": [
+      "philippines"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇰"
+  , "description": "Pakistan"
+  , "category": "Flags"
+  , "aliases": [
+      "pakistan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇱"
+  , "description": "Poland"
+  , "category": "Flags"
+  , "aliases": [
+      "poland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇲"
+  , "description": "St. Pierre & Miquelon"
+  , "category": "Flags"
+  , "aliases": [
+      "st_pierre_miquelon"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇵🇳"
+  , "description": "Pitcairn Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "pitcairn_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇵🇷"
+  , "description": "Puerto Rico"
+  , "category": "Flags"
+  , "aliases": [
+      "puerto_rico"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇸"
+  , "description": "Palestinian Territories"
+  , "category": "Flags"
+  , "aliases": [
+      "palestinian_territories"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇹"
+  , "description": "Portugal"
+  , "category": "Flags"
+  , "aliases": [
+      "portugal"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇼"
+  , "description": "Palau"
+  , "category": "Flags"
+  , "aliases": [
+      "palau"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇵🇾"
+  , "description": "Paraguay"
+  , "category": "Flags"
+  , "aliases": [
+      "paraguay"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇶🇦"
+  , "description": "Qatar"
+  , "category": "Flags"
+  , "aliases": [
+      "qatar"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇷🇪"
+  , "description": "Réunion"
+  , "category": "Flags"
+  , "aliases": [
+      "reunion"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇷🇴"
+  , "description": "Romania"
+  , "category": "Flags"
+  , "aliases": [
+      "romania"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇷🇸"
+  , "description": "Serbia"
+  , "category": "Flags"
+  , "aliases": [
+      "serbia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇷🇺"
+  , "description": "Russia"
+  , "category": "Flags"
+  , "aliases": [
+      "ru"
+    ]
+  , "tags": [
+      "russia"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇷🇼"
+  , "description": "Rwanda"
+  , "category": "Flags"
+  , "aliases": [
+      "rwanda"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇦"
+  , "description": "Saudi Arabia"
+  , "category": "Flags"
+  , "aliases": [
+      "saudi_arabia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇧"
+  , "description": "Solomon Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "solomon_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇨"
+  , "description": "Seychelles"
+  , "category": "Flags"
+  , "aliases": [
+      "seychelles"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇩"
+  , "description": "Sudan"
+  , "category": "Flags"
+  , "aliases": [
+      "sudan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇪"
+  , "description": "Sweden"
+  , "category": "Flags"
+  , "aliases": [
+      "sweden"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇬"
+  , "description": "Singapore"
+  , "category": "Flags"
+  , "aliases": [
+      "singapore"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇭"
+  , "description": "St. Helena"
+  , "category": "Flags"
+  , "aliases": [
+      "st_helena"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇸🇮"
+  , "description": "Slovenia"
+  , "category": "Flags"
+  , "aliases": [
+      "slovenia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇯"
+  , "description": "Svalbard & Jan Mayen"
+  , "category": "Flags"
+  , "aliases": [
+      "svalbard_jan_mayen"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇸🇰"
+  , "description": "Slovakia"
+  , "category": "Flags"
+  , "aliases": [
+      "slovakia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇱"
+  , "description": "Sierra Leone"
+  , "category": "Flags"
+  , "aliases": [
+      "sierra_leone"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇲"
+  , "description": "San Marino"
+  , "category": "Flags"
+  , "aliases": [
+      "san_marino"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇳"
+  , "description": "Senegal"
+  , "category": "Flags"
+  , "aliases": [
+      "senegal"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇴"
+  , "description": "Somalia"
+  , "category": "Flags"
+  , "aliases": [
+      "somalia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇷"
+  , "description": "Suriname"
+  , "category": "Flags"
+  , "aliases": [
+      "suriname"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇸"
+  , "description": "South Sudan"
+  , "category": "Flags"
+  , "aliases": [
+      "south_sudan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇹"
+  , "description": "São Tomé & Príncipe"
+  , "category": "Flags"
+  , "aliases": [
+      "sao_tome_principe"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇻"
+  , "description": "El Salvador"
+  , "category": "Flags"
+  , "aliases": [
+      "el_salvador"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇽"
+  , "description": "Sint Maarten"
+  , "category": "Flags"
+  , "aliases": [
+      "sint_maarten"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇾"
+  , "description": "Syria"
+  , "category": "Flags"
+  , "aliases": [
+      "syria"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇸🇿"
+  , "description": "Eswatini"
+  , "category": "Flags"
+  , "aliases": [
+      "swaziland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇦"
+  , "description": "Tristan da Cunha"
+  , "category": "Flags"
+  , "aliases": [
+      "tristan_da_cunha"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇹🇨"
+  , "description": "Turks & Caicos Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "turks_caicos_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇩"
+  , "description": "Chad"
+  , "category": "Flags"
+  , "aliases": [
+      "chad"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇹🇫"
+  , "description": "French Southern Territories"
+  , "category": "Flags"
+  , "aliases": [
+      "french_southern_territories"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇬"
+  , "description": "Togo"
+  , "category": "Flags"
+  , "aliases": [
+      "togo"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇭"
+  , "description": "Thailand"
+  , "category": "Flags"
+  , "aliases": [
+      "thailand"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇯"
+  , "description": "Tajikistan"
+  , "category": "Flags"
+  , "aliases": [
+      "tajikistan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇰"
+  , "description": "Tokelau"
+  , "category": "Flags"
+  , "aliases": [
+      "tokelau"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇹🇱"
+  , "description": "Timor-Leste"
+  , "category": "Flags"
+  , "aliases": [
+      "timor_leste"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇲"
+  , "description": "Turkmenistan"
+  , "category": "Flags"
+  , "aliases": [
+      "turkmenistan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇳"
+  , "description": "Tunisia"
+  , "category": "Flags"
+  , "aliases": [
+      "tunisia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇴"
+  , "description": "Tonga"
+  , "category": "Flags"
+  , "aliases": [
+      "tonga"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇷"
+  , "description": "Turkey"
+  , "category": "Flags"
+  , "aliases": [
+      "tr"
+    ]
+  , "tags": [
+      "turkey"
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🇹🇹"
+  , "description": "Trinidad & Tobago"
+  , "category": "Flags"
+  , "aliases": [
+      "trinidad_tobago"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇻"
+  , "description": "Tuvalu"
+  , "category": "Flags"
+  , "aliases": [
+      "tuvalu"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇹🇼"
+  , "description": "Taiwan"
+  , "category": "Flags"
+  , "aliases": [
+      "taiwan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇹🇿"
+  , "description": "Tanzania"
+  , "category": "Flags"
+  , "aliases": [
+      "tanzania"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇺🇦"
+  , "description": "Ukraine"
+  , "category": "Flags"
+  , "aliases": [
+      "ukraine"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇺🇬"
+  , "description": "Uganda"
+  , "category": "Flags"
+  , "aliases": [
+      "uganda"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇺🇲"
+  , "description": "U.S. Outlying Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "us_outlying_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇺🇳"
+  , "description": "United Nations"
+  , "category": "Flags"
+  , "aliases": [
+      "united_nations"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🇺🇸"
+  , "description": "United States"
+  , "category": "Flags"
+  , "aliases": [
+      "us"
+    ]
+  , "tags": [
+      "flag"
+    , "united"
+    , "america"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🇺🇾"
+  , "description": "Uruguay"
+  , "category": "Flags"
+  , "aliases": [
+      "uruguay"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇺🇿"
+  , "description": "Uzbekistan"
+  , "category": "Flags"
+  , "aliases": [
+      "uzbekistan"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇦"
+  , "description": "Vatican City"
+  , "category": "Flags"
+  , "aliases": [
+      "vatican_city"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇻🇨"
+  , "description": "St. Vincent & Grenadines"
+  , "category": "Flags"
+  , "aliases": [
+      "st_vincent_grenadines"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇪"
+  , "description": "Venezuela"
+  , "category": "Flags"
+  , "aliases": [
+      "venezuela"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇬"
+  , "description": "British Virgin Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "british_virgin_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇮"
+  , "description": "U.S. Virgin Islands"
+  , "category": "Flags"
+  , "aliases": [
+      "us_virgin_islands"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇳"
+  , "description": "Vietnam"
+  , "category": "Flags"
+  , "aliases": [
+      "vietnam"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇻🇺"
+  , "description": "Vanuatu"
+  , "category": "Flags"
+  , "aliases": [
+      "vanuatu"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇼🇫"
+  , "description": "Wallis & Futuna"
+  , "category": "Flags"
+  , "aliases": [
+      "wallis_futuna"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇼🇸"
+  , "description": "Samoa"
+  , "category": "Flags"
+  , "aliases": [
+      "samoa"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇽🇰"
+  , "description": "Kosovo"
+  , "category": "Flags"
+  , "aliases": [
+      "kosovo"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇾🇪"
+  , "description": "Yemen"
+  , "category": "Flags"
+  , "aliases": [
+      "yemen"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇾🇹"
+  , "description": "Mayotte"
+  , "category": "Flags"
+  , "aliases": [
+      "mayotte"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "9.0"
+  }
+, {
+    "emoji": "🇿🇦"
+  , "description": "South Africa"
+  , "category": "Flags"
+  , "aliases": [
+      "south_africa"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇿🇲"
+  , "description": "Zambia"
+  , "category": "Flags"
+  , "aliases": [
+      "zambia"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🇿🇼"
+  , "description": "Zimbabwe"
+  , "category": "Flags"
+  , "aliases": [
+      "zimbabwe"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "8.3"
+  }
+, {
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  , "description": "England"
+  , "category": "Flags"
+  , "aliases": [
+      "england"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  , "description": "Scotland"
+  , "category": "Flags"
+  , "aliases": [
+      "scotland"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  , "description": "Wales"
+  , "category": "Flags"
+  , "aliases": [
+      "wales"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+]
