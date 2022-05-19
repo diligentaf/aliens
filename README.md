@@ -72,10 +72,10 @@ $ go run main.go
 ![](docs/forest.png)
 3. Hell\
 ![](docs/hell.png)
-3. IGNITE\
+4. IGNITE\
 ![](docs/ignite.png)
-4. San Francisco\
+5. San Francisco\
 ![](docs/sanfrancisco.png)
-5. You can also make your own map in /map directory
+6. You can make your own map and save it in /map directory
 
 > The game is written in single file, main.go
